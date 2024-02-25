@@ -1,0 +1,89 @@
+{
+    "Person": {
+        "firstName": "Jonas",
+        "lastName": "Sajonas"
+    },
+    "Details": {
+        "Address": {
+            "Country": "Australia",
+            "City": "Gold Coast",
+            "State": "Queensland"
+        },
+        "Number": "0451-989-217",
+        "Email": "jonas.sajonas@gmail.com",
+        "LinkedIn": "https://www.linkedin.com/in/sajonasj/",
+        "GitHub": "https://github.com/sajonasJ",
+        "Website": "https://jonas-sajonas.github.io/"
+    },
+    "Education": {
+        "IT": {
+            "Degree": "Bachelor of Information Technology",
+            "University": "Griffith University",
+            "Location": "Gold Coast, Queensland",
+            "Major": "Software Development",
+            "Year": "2022-2024",
+            "GPA": "6.67/7.0"
+        },
+        "Nursing": {
+            "Australia": {
+                "Degree": "Bachelor of Nursing (Conversion)",
+                "University": "Edith Cowan University",
+                "Location": "Joondalup, Perth",
+                "Year": "2015-2016",
+                "Experience": {
+                    "Hospital": {
+                        "Glenferrie Private Hospital": {
+                            "Location": "Hawthorn, Victoria",
+                            "Year": "2016-2017",
+                            "Position": "Operating Theatre Nurse"
+                        },
+                        "Sandringham Hospital": {
+                            "Location": "Sandringham, Victoria",
+                            "Year": "2017-2020",
+                            "Position": "Operating Theatre Nurse"
+                        },
+                        "Gold Coast University Hospital": {
+                            "Location": "Southport, Queensland",
+                            "Year": "2020-2023",
+                            "Position": "Operating Theatre Nurse"
+                        }
+                    }
+                }
+            },
+            "Philippines": {
+                "Degree": "Bachelor of Science in Nursing",
+                "College": "Chinese General Hospiral College of Nursing",
+                "Location": "Manila, Philippines",
+                "Year": "2007-2011",
+                "Rating": "83.20",
+                "Experience": {
+                    "Hospital": {
+                        "Makati Medical Center": {
+                            "Location": "Makati City, Philippines",
+                            "Year": "2012-2015",
+                            "Position": "Operating Theatre Nurse"
+                        },
+                        "St. Luke's Medical Center": {
+                            "Location": "Quezon City, Philippines",
+                            "Year": "2011-2012",
+                            "Position": "Operating Theatre Nurse"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Projects": {
+        "Portfolio": "project1",
+        "Github-Link": "Link1",
+        "Stack": [
+            "Html",
+            "Css",
+            "Js",
+            "React",
+            "Node",
+            "Express",
+            "MongoDB"
+        ]
+    }
+}
